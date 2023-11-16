@@ -39,6 +39,7 @@ nav ul {
     float: right;
     position: relative;
     z-index: 99;
+    border: 1px #c1187b;
 
 }
 
@@ -48,11 +49,13 @@ nav .nav-item {
     padding: 15px 25px;
     font-size: 18px;
     color: #ffffff;
+    
 
 }
 nav .nav-item:hover {
     border-bottom: 2px solid #222;
     transition: .1s;
+    
 }
 header .logo {
     float: left;
